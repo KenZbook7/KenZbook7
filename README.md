@@ -1,5 +1,10 @@
-### Hi there 👋
-
+Hi there 👋
+- 🔭 I’m currently working on a website
+- 🌱 I’m currently learning programming
+- 💬 Ask me about programming
+- 📫 How to reach me: kenzbooks@gmail.com
+- 😄 Pronouns: He/Hime
+- ⚡ Fun fact: I am a student
 <!--
 **KenZbook7/KenZbook7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
